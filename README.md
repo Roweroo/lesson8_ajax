@@ -13,10 +13,9 @@ Linda Rowe
 This assignment exemplifies the use of AJAX and JSON to request and receive information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://roweroo.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX is the process of sending or receiving data without a page reload.
+2. JSON creates objects and arrays that are nested and JSON relies on JavaScript.
+3. An XMLHTTP REQUEST does the hard work of making a connection with a URL we provide and this allows us to send and receive data.
